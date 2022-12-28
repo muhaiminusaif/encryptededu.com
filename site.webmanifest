@@ -1,23 +1,15 @@
-   {
-    "name": "Encrypted Edu",
-    "short_name": "Encrypted Edu",
-    "icons": [
-        {
-            "src": "https://encryptededu.com/wp-content/uploads/2022/11/photo_2022-11-25_15-29-29.jpg",
-            "sizes": "192x192",
-            "type": "image/png",
-            "purpose": "any maskable"
-        },
-        {
-            "src": "https://encryptededu.com/wp-content/uploads/2022/11/photo_2022-11-25_15-29-29.jpg",
-            "sizes": "512x512",
-            "type": "image/png",
-            "purpose": "any maskable"
-        }
-    ],
-    "theme_color": "#ffffff",
-    "background_color": "#ffffff",
-    "display": "standalone",
-    "prefer_related_applications": false,
-  "start_url": "https://encryptededu.com"
+{
+  "background_color": "purple",
+  "description": "Shows random fox pictures. Hey, at least it isn't cats.",
+  "display": "fullscreen",
+  "icons": [
+    {
+      "src": "http://free-tv.eu.org/cropped-Root-IT-System-Logo-removebg-preview.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ],
+  "name": "Awesome fox pictures",
+  "short_name": "Foxes",
+  "start_url": "http://mytv.great-site.net"
 }
