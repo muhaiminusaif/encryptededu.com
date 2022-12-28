@@ -1,0 +1,23 @@
+   {
+    "name": "Encrypted Edu",
+    "short_name": "Encrypted Edu",
+    "icons": [
+        {
+            "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPn4wcjww6K3u2njcjcue2T_xEZ4ENg9Th-2PN3bzmzsiSPjheJH29iiCwOptV_Hp4TN9Z_mjohe0V5JaaqcOx9FOZuQ76isEeW3g5NQ8WPeBCWw0CTQIFWjG3qZi62oNppn2tkbjoqI6Ly8D74DpWNAhLFzQW-ZGje-DS0JnqliHSRcAeS0db_30bAA/s1600/android-chrome-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2hbDCWsXRWORsn-fYYR5vLFC4ToLT8xEk1uwb7tCd0o8ZEYsu5ouDBw-tH6CvtoUgnpUOsS4z2rdlIixfshx-bXB1NxuIaAqqHtXHmmAO_6WTDeAU2_Lb3ANl80fwA2-LtvK0Q698JuEh61i7WcRVhibXqaQRWLALs74C-f4HfWDEE8M_DqhA3mjnXg/s512/android-chrome-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ],
+    "theme_color": "#ffffff",
+    "background_color": "#ffffff",
+    "display": "standalone",
+    "prefer_related_applications": false,
+  "start_url": "https://encryptededu.com"
+}
